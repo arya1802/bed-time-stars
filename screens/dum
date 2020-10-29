@@ -1,0 +1,10 @@
+<Image source = { require("../assets/icon.png")} style={styles.image} />
+
+image:{
+    width:"60%",
+    height:"40%",
+    marginBottom:30,
+    borderWidth:5,
+    borderColor:'#badc58',
+    borderRadius:20
+  },
